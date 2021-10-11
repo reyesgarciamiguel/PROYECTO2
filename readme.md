@@ -1,8 +1,8 @@
 # MongoDB Inicio
 
-_Proyecto número 2 de clase en el que vamos a explicar el proceso para descargar e instalar MongoDB la base no relacional que usaremos en clase y además instalaremos la herramienta Visual Studio Code con la cuál crearemos nuestros códigos de Java y este mismo README
+Proyecto número 2 de clase en el que vamos a explicar el proceso para descargar e instalar MongoDB la base no relacional que usaremos en clase y además instalaremos la herramienta Visual Studio Code con la cuál crearemos nuestros códigos de Java y este mismo README
 
-Despues de esto crearemos nuestro archivo Insert y Consultas basados en Java para dar muestra de ordenes de insertar documentos y ordenes de consulta como FIND_
+Despues de esto crearemos nuestro archivo Insert y Consultas basados en Java para dar muestra de ordenes de insertar documentos y ordenes de consulta como FIND
 
 - [x] MongoDB Server y compass
 - [x] Visual Studio Code
