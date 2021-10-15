@@ -26,7 +26,7 @@ use prueba: Cambia la base de datos activa y la crea en el caso de que no esté.
 
 show dbs: Muestra las bases de datos
 
-db.prueba.insertOne({nombre: "Miguel"}): Añade el documento a la columna prueba
+db.prueba.insertOne({nombre: "Miguel"}): Añade el documento a la colección prueba
 
 show collections: Muestra las colecciones que disponemos
 
